@@ -1,0 +1,181 @@
+{
+	
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+  "applovin_banner_id": "xxxxxx",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
+  "applovin_rewarded_id": "xxxxxx",
+  "max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  "startapp_id": "xxxxxxxx",
+  
+  
+  "Ads Explanation": " gfx | applovin | admob | facebook | ironsource | unity | startapp ",
+
+  "Interstitial": "gfx",
+  "Banner": "gfx",
+  "Native": "gfx",
+  "Rewarded": "admob",
+  
+  
+  "start_inter": true,
+  "gender_inter": false,
+  "setup_inter": true,
+  
+  
+  "onesignal_id": "xxxxxxx",
+  
+  
+  "show_quiz": true,
+  
+  "fore_answer_quiz": true,
+  
+  "fore_rate": false,
+  
+  "web_view_ad_blocker": false,
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+  "show_cpa": true,
+  "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+  "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+  "cpa_button_text": "Get It Now!",
+  
+  
+  "rating_exit_popup": true,
+  
+  "make_user_change_theme": true,
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "show_app_1": true,
+  "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+  "app_title_1": "Parchisi STAR Online",
+  "app_desc_1": "Parchisi STAR is an online multiplayer game.",
+  "app_url_1": "com.superking.parchisi.star",
+  
+  "show_app_2": true,
+  "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
+  "app_title_2": "8 Ball Pool",
+  "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
+  "app_url_2": "com.miniclip.eightballpool",
+  
+  "show_app_3": true,
+  "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
+  "app_title_3": "Plants vs. Zombies™",
+  "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
+  "app_url_3": "com.ea.game.pvzfree_row",
+
+
+  "guides": [
+	{
+	 "image": "https://play-lh.googleusercontent.com/tAJQzM8zdjLrl4RRKcHElwsOTSDdi9qP2gVMg5DMLiczJ8S0ShZdA6MWQNb8WPWGL9o",
+	 "title": "How To Play This Run Game",
+	 "text": "Welcome to Run Forrest Run, the official game of Forrest Gump! Enjoy endless running in this amazing adventure. Have fun on the run, dashing and beating every level with Forrest Gump in this great runner game!",
+	 "text_two": "Run as Forrest Gump through the levels, collecting coins and dashing in the jungle, enjoy playing this game as the star of an award-winning Paramount Pictures film!",
+
+	 "isLocked": false,
+	 "id": 1,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "https://play-lh.googleusercontent.com/FRW8NYnVd3ZHtQeZ6Jmx9FoP7uPPqLuAcGXLnFtrD2r_55qv32bI4aO6rPeZ0N7p1gc=w2560-h1440-rw",
+	 "title": "Play Now!",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 2,
+	 
+	 "isWebUI": true,
+	 "web_url": "https://html5.gamedistribution.com/1a78f9d4787b4443953a304385e6da69/?",
+	 "isWeb": true
+	 
+	},
+	{
+	 "image": "https://play-lh.googleusercontent.com/aauOwH12JyoyR02LcWGtTocm_w3l4BGdGslQDCM3UzAuNJ_zobtEh83uQXEbCPHkc5g=w2560-h1440-rw",
+	 "title": "Some Hakes For This Run Game",
+	 "text": "This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text",
+	 "text_two": "- Easy to play, dash, run, jump and collect coins while running: Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner. Fly with a hang glider and collect the coins in the air in this endless running game.",
+
+	 "isLocked": true,
+	 "id": 3,
+
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
+	},
+	{
+	"image": "https://play-lh.googleusercontent.com/jJl7XZxT5fZ4AHwRFKE7ojcNJfXKrA1FULHlnscDUMc7JtGKzq-X9frYwV6YYfwv8mo=w2560-h1440-rw",
+	 "title": "Endless runner features:",
+	 "text": "- Easy to play, dash, run, jump and collect coins while running:",
+	 "text_two": "Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner. Fly with a hang glider and collect the coins in the air in this endless running game.",
+
+	 "isLocked": false,
+	 "id": 4,
+
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
+	},
+	{
+	"image": "https://play-lh.googleusercontent.com/sA77XbAEwWvTCrPrUPUWVW2oxoDLeTwXc0xBaWuCBeVJ_Wj1dHj_7UrRNQ5e4bzkuvk=w2560-h1440-rw",
+	 "title": "Unlimited Running",
+	 "text": "Run unlimited in the jungle of Vietnam. Dash fast, rush to overcome levels, unlock new scenarios and characters. Try running as fast as possible in this endless running adventure game without wifi (offline game).",
+	 "text_two": "While running, get boosters & power ups to run unlimited time in all the scenarios and have a lot of fun. A wild race is waiting: run, jump and dodge! rush and dash through a fusion of arcade and action game, enjoy some casual fun for everyone and running games.",
+
+	 "isLocked": true,
+	 "id": 5,
+
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
+	},
+	{
+	"image": "https://play-lh.googleusercontent.com/KoUDR8uX-W7lKAgbi1cZZk87hkOXc47JeZpsi89rpzuOB-2sIJ17YEPU8J7wng6mbg=w2560-h1440-rw",
+	 "title": "Easy To Play",
+	 "text": "Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner.",
+	 "text_two": "Fly with a hang glider and collect the coins in the air in this endless running game.",
+
+	 "isLocked": false,
+	 "id": 6,
+
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
+	}
+  ]  
+}
