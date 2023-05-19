@@ -1,0 +1,75 @@
+{
+
+  "quizes": [
+	{
+		
+	 "question": "how many pyramides are in egypte?",
+      
+	 "answer_1": "Three pyramides",
+	 "answer_2": "four pyramides",
+	 "answer_3": "five pyramides",
+	 
+	 "correct": 1
+      
+	},
+	{
+	  
+	 "question": "What is Choo Choo Charles?",
+      
+	 "answer_1": "Spider Train",
+	 "answer_2": "Spider Man",
+	 "answer_3": "Spider Car",
+	 
+
+	 "correct": 1
+      
+	},
+	{
+	  
+	 "question": "What is 1X Bet",
+      
+	 "answer_1": "A dating app",
+	 "answer_2": "A betting app",
+	 "answer_3": "A cooking app",
+	 
+
+	 "correct": 2
+      
+	},
+	{
+	  
+	 "question": "Which one doesn't belong to Poppy Playtime?",
+      
+	 "answer_1": "Huggy Wuggy",
+	 "answer_2": "Kissy Missy",
+	 "answer_3": "The Man From The Window",
+	 
+
+	 "correct": 3
+      
+	},
+	{
+	  
+	 "question": "How many USLs does Real Madrid have?",
+      
+	 "answer_1": "13 Champions Leage",
+	 "answer_2": "12 Champions Leage",
+	 "answer_3": "14 Champions Leage",
+	 
+
+	 "correct": 3
+      
+	},
+	{
+	 
+	 "question": "Which one is a programming language?",
+     
+	 "answer_1": "English",
+	 "answer_2": "Kotlin",
+	 "answer_3": "Arabic",
+	 
+	 "correct": 2
+      
+	}
+  ]  
+}
